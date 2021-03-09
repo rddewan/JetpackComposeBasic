@@ -25,8 +25,9 @@ val gray200 = Color(0xffEEEEEE)
 
 private val DarkColors = darkColors(
     primary = gray200,
+    secondary = gray900,
     primaryVariant = gray900,
-    secondary = teal200
+
 )
 
 private val LightColors = lightColors(
